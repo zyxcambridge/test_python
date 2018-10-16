@@ -1,0 +1,12 @@
+10
+800,600
+point,ops-m153,678,282,False,619,289,False,566,296,False
+point,ops-m153,556,231,False,496,269,False,474,283,False
+point,ops-m153,619,434,False,565,405,False,521,382,False
+point,ops-m153,437,492,False,424,426,False,417,391,False
+point,ops-m153,216,519,False,254,480,False,288,443,False
+point,ops-m153,172,496,False,207,463,False,244,428,False
+point,ops-m153,252,366,False,320,347,False,345,339,False
+point,ops-m153,133,350,False,189,344,False,235,339,False
+point,ops-m153,320,77,False,343,137,False,360,180,True
+point,ops-m153,308,136,False,340,197,False,360,234,False

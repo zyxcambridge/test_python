@@ -1,0 +1,5 @@
+3
+800,600
+cube,ops-m155,202,230,False,362,368,False,282,299,False
+cube,ops-m155,355,237,False,560,391,False,457,314,False
+cube,ops-m155,313,381,False,512,504,False,417,454,False
